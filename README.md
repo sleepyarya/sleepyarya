@@ -1,11 +1,11 @@
-<h1 align="center">Hi there, I'm SleepyArya 👋</h1>
-<h3 align="center">🚀 Fullstack Developer | Open Source Enthusiast | Code Wizard</h3>
-
-<p align="center">
+<div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Fullstack+Developer;Laravel+%26+Vue.js+Expert;Building+Cool+Web+Apps;Always+Learning" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Rubik+Glitch&size=50&pause=1000&color=39FF14&center=true&vCenter=true&width=800&lines=Hi+There,+I'm+SleepyArya;System.Hack(User);Fullstack+Developer;Open+Source+Enthusiast;Wake+Up,+Neo..." alt="Glitch Animation" />
   </a>
-</p>
+</div>
+
+
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sleepyarya&label=Profile%20View&color=0e75b6&style=flat" alt="sleepyarya" />
