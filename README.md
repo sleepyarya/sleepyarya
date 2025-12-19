@@ -66,7 +66,7 @@ contact: "jjill2479@gmail.com"
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sleepyarya&theme=dark&hide_border=true&background=000000&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=39FF14&dates=39FF14" alt="SleepyArya's Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sleepyarya&theme=git_hacker&no-frame=true&margin-w=4" alt="SleepyArya's Trophies" />
 </p>
 
 <div align="center">
