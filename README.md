@@ -20,7 +20,7 @@
 - 🌱 I’m constantly learning new technologies to improve my stack.
 - 👯 I’m looking to collaborate on open-source projects.
 - 💬 Ask me about **PHP, JavaScript, SQL, and Web Development**.
-- 📫 Reach me at: [Your Email]
+- 📫 Reach me at: jjill2479@gmail.com
 
 ---
 
