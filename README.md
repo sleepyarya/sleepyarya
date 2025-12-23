@@ -18,6 +18,12 @@
 
 ### ⚡ System Status: Online
 
+<p align="center">
+  <a href="https://portfolio-gamma-nine-nelv3rsb2s.vercel.app/">
+    <img src="https://img.shields.io/badge/ACCESS_PORTFOLIO-INITIATED-39FF14?style=for-the-badge&logo=vercel&logoColor=000000" alt="Portfolio">
+  </a>
+</p>
+
 ```yaml
 user: sleepyarya
 role: Fullstack Developer
@@ -26,6 +32,7 @@ status: "Compiling..."
 mission: "Build scalable web apps & break things"
 tools: [Laravel, Vue.js, Node.js, Python]
 contact: "jjill2479@gmail.com"
+portfolio: "https://portfolio-gamma-nine-nelv3rsb2s.vercel.app/"
 ```
 
 <div align="center">
