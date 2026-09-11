@@ -62,12 +62,12 @@ const username = {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sleepyarya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sleepyarya&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sleepyarya&theme=tokyonight" alt="GitHub statistics" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sleepyarya&theme=tokyonight" alt="Top languages" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=sleepyarya&theme=tokyonight&hide_border=true" alt="GitHub streak statistics" />
+<img width="70%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sleepyarya&theme=tokyonight&utcOffset=7" alt="Productive coding time" />
 
 </div>
 
@@ -76,7 +76,7 @@ const username = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sleepyarya&theme=radical&no-frame=true&row=1&column=7&margin-w=8" alt="GitHub trophies" />
+<img src="https://github-trophies.vercel.app/?username=sleepyarya" alt="GitHub trophies" />
 </div>
 
 <br/>
@@ -84,7 +84,7 @@ const username = {
 ## 📈 Activity Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sleepyarya&theme=react-dark&hide_border=true&area=true" width="100%" alt="GitHub activity graph"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sleepyarya&theme=tokyonight" width="100%" alt="GitHub activity graph"/>
 </div>
 
 <br/>
@@ -95,7 +95,6 @@ const username = {
 <img src="https://ghchart.rshah.org/409ba5/sleepyarya" width="100%" alt="GitHub contribution graph"/>
 </div>
 
-> Contribution graph ditampilkan langsung dari aktivitas GitHub, jadi tidak membutuhkan GitHub Actions.
 
 <br/>
 
