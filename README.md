@@ -10,14 +10,14 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20There,%20I'm%20Arya%20👋&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20|%20Problem%20Solver%20|%20Lifelong%20Learner&descAlignY=55&descSize=18" width="100%"/>
 
 <!-- Typing animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=90&lines=Full+Stack+Developer+%F0%9F%92%BB;Clean+Code+Enthusiast+%E2%9C%A8;Always+Learning+New+Things+%F0%9F%9A%80" alt="Typing SVG" />
+<a href="">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=120&lines=Full+Stack+Developer+%F0%9F%92%BB;Clean+Code+Enthusiast+%E2%9C%A8;Always+Learning+New+Things+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <!-- Social badges -->
-<a href="jjill2479@gmail.com" target="_blank">
+<a href="mailto:jjill2479@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://instagram.com/ramaadhan.a" target="_blank">
