@@ -1,83 +1,110 @@
+<!-- ============================================= -->
+<!--   GITHUB PROFILE README                      -->
+<!--   Ganti "username-kamu", nama, dan link       -->
+<!--   sesuai dengan data kamu sendiri ya!         -->
+<!-- ============================================= -->
+
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Rubik+Glitch&size=50&pause=1000&color=39FF14&center=true&vCenter=true&width=800&lines=Hi+There,+I'm+SleepyArya;System.Hack(User);Initializing+Root+Access...;Fullstack+Developer;Open+Source+Enthusiast;Wake+Up,+Neo..." alt="Glitch Animation" />
-  </a>
+
+<!-- Animated wave banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20There,%20I'm%20Username%20👋&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20|%20Problem%20Solver%20|%20Lifelong%20Learner&descAlignY=55&descSize=18" width="100%"/>
+
+<!-- Typing animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=90&lines=Full+Stack+Developer+%F0%9F%92%BB;Clean+Code+Enthusiast+%E2%9C%A8;Always+Learning+New+Things+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- Social badges -->
+<a href="jjill2479@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://instagram.com/ramaadhan.a" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sleepyarya&label=ACCESS%20COUNT&color=39FF14&style=for-the-badge&label_color=000000" alt="sleepyarya" />
-</p>
+<br/>
 
-```bash
-> root@sleepyarya:~$ whoami
+## 🧑‍💻 Tentang Saya
+
+```javascript
+const username = {
+  name: "Are ya?",
+  role: "Software Developer",
+  location: "Indonesia 🇮🇩",
+  currentFocus: "Web Development",
+  funFact: "Lower your expectations 🙏",
+};
 ```
 
-<div align="center">
-  <img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="100%" height="20" />
-</div>
+- 🔭 Currently working on cool projects that I'm proud of
+- 🌱 Learning new technologies every week
+- 👯 Open to collaborating on open-source projects
+- 💬 Ask me about JavaScript, React, or Backend
+- ⚡ Fun fact: Coffee is a mandatory dependency for coding ☕
 
-### ⚡ System Status: Online
+<br/>
 
-<p align="center">
-  <a href="https://portfolio-gamma-nine-nelv3rsb2s.vercel.app/">
-    <img src="https://img.shields.io/badge/ACCESS_PORTFOLIO-INITIATED-39FF14?style=for-the-badge&logo=vercel&logoColor=000000" alt="Portfolio">
-  </a>
-</p>
-
-```yaml
-user: sleepyarya
-role: Fullstack Developer
-current_location: "In the code"
-status: "Compiling..."
-mission: "Build scalable web apps & break things"
-tools: [Laravel, Vue.js, Node.js, Python]
-contact: "jjill2479@gmail.com"
-portfolio: "https://portfolio-gamma-nine-nelv3rsb2s.vercel.app/"
-```
+## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="100%" height="20" />
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,java,html,css,tailwind,express,mongodb,mysql,postgres,git,github,docker,figma,vscode,linux&theme=dark" />
+
 </div>
 
-### 🛠️ Mainframe Tools (Tech Stack)
+<br/>
 
-<p align="center">
-  <!-- Backend -->
-  <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=39FF14" alt="PHP" />
-  <img src="https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=39FF14" alt="Laravel" />
-  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=39FF14" alt="NodeJS" />
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=39FF14" alt="Python" />
-  
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=39FF14" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Vue.js-000000?style=for-the-badge&logo=vue.js&logoColor=39FF14" alt="Vue" />
-  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=39FF14" alt="React" />
-  <img src="https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwindcss&logoColor=39FF14" alt="Tailwind" />
-  
-  <!-- Database & Tools -->
-  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=39FF14" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=39FF14" alt="Git" />
-  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=39FF14" alt="Docker" />
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=39FF14" alt="Linux" />
-</p>
+## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="100%" height="20" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=username-kamu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=username-kamu&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=username-kamu&theme=tokyonight&hide_border=true" />
+
 </div>
 
-### 📊 Encryption Analysis (GitHub Stats)
+<br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sleepyarya&show_icons=true&hide_border=true&bg_color=000000&title_color=39FF14&text_color=white&icon_color=39FF14&rank_icon=github&count_private=true" alt="SleepyArya's User Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sleepyarya&layout=compact&hide_border=true&bg_color=000000&title_color=39FF14&text_color=white&icon_color=39FF14" alt="SleepyArya's Top Languages" />
-</p>
-
+## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Footer Animation" />
+<img src="https://github-profile-trophy.vercel.app/?username=username-kamu&theme=radical&no-frame=true&row=1&column=7&margin-w=8" />
 </div>
 
-<!-- 
-EOF
-System.exit(0);
--->
+<br/>
+
+## 📈 Activity Graph
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=username-kamu&theme=react-dark&hide_border=true&area=true" width="100%"/>
+</div>
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/username-kamu/username-kamu/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</div>
+
+> ⚠️ Animasi snake di atas butuh setup GitHub Actions (lihat catatan di bawah pesan ini).
+
+<br/>
+
+## 🎯 Visitor Count
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=username-kamu&color=7C3AED&style=flat-square&label=Profile+Views" />
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
