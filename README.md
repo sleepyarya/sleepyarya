@@ -67,8 +67,6 @@ const username = {
 
 <br/>
 
-<img width="70%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sleepyarya&theme=tokyonight&utcOffset=7" alt="Productive coding time" />
-
 </div>
 
 <br/>
