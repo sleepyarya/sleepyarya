@@ -1,13 +1,13 @@
 <!-- ============================================= -->
 <!--   GITHUB PROFILE README                      -->
-<!--   Ganti "username-kamu", nama, dan link       -->
+<!--   Profil GitHub: sleepyarya                       -->
 <!--   sesuai dengan data kamu sendiri ya!         -->
 <!-- ============================================= -->
 
 <div align="center">
 
 <!-- Animated wave banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20There,%20I'm%20Username%20👋&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20|%20Problem%20Solver%20|%20Lifelong%20Learner&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20There,%20I'm%20Arya%20👋&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20|%20Problem%20Solver%20|%20Lifelong%20Learner&descAlignY=55&descSize=18" width="100%"/>
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
@@ -28,7 +28,7 @@
 
 <br/>
 
-## 🧑‍💻 Tentang Saya
+## 🧑‍💻 About Me
 
 ```javascript
 const username = {
@@ -62,12 +62,12 @@ const username = {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=username-kamu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=username-kamu&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=sleepyarya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sleepyarya&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=username-kamu&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=sleepyarya&theme=tokyonight&hide_border=true" alt="GitHub streak statistics" />
 
 </div>
 
@@ -76,7 +76,7 @@ const username = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=username-kamu&theme=radical&no-frame=true&row=1&column=7&margin-w=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=sleepyarya&theme=radical&no-frame=true&row=1&column=7&margin-w=8" alt="GitHub trophies" />
 </div>
 
 <br/>
@@ -84,7 +84,7 @@ const username = {
 ## 📈 Activity Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=username-kamu&theme=react-dark&hide_border=true&area=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sleepyarya&theme=react-dark&hide_border=true&area=true" width="100%" alt="GitHub activity graph"/>
 </div>
 
 <br/>
@@ -92,17 +92,17 @@ const username = {
 ## 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/username-kamu/username-kamu/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://ghchart.rshah.org/409ba5/sleepyarya" width="100%" alt="GitHub contribution graph"/>
 </div>
 
-> ⚠️ Animasi snake di atas butuh setup GitHub Actions (lihat catatan di bawah pesan ini).
+> Contribution graph ditampilkan langsung dari aktivitas GitHub, jadi tidak membutuhkan GitHub Actions.
 
 <br/>
 
 ## 🎯 Visitor Count
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=username-kamu&color=7C3AED&style=flat-square&label=Profile+Views" />
+<img src="https://komarev.com/ghpvc/?username=sleepyarya&color=7C3AED&style=flat-square&label=Profile+Views" alt="Profile views" />
 </div>
 
 <br/>
